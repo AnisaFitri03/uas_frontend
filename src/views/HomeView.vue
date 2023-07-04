@@ -19,7 +19,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-top:5px;
+  padding-top:20px;
   width:1100px;
   height:510px;
 
